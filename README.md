@@ -388,6 +388,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 - ### Podcasts to think outside the box:
     - [Data Stories](http://datastori.es/)
+    - [Lex Fridman Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
     
 ## Communities
 - Quora
